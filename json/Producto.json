@@ -1,0 +1,713 @@
+[
+  {
+    "Producto": "Bielas GA"
+  },
+  {
+    "Producto": "Bielas GB"
+  },
+  {
+    "Producto": "Bielas GM"
+  },
+  {
+    "Producto": "Bomba de montaña"
+  },
+  {
+    "Producto": "Cable antirrobo"
+  },
+  {
+    "Producto": "Cadena"
+  },
+  {
+    "Producto": "Calcetines para bicicleta de montaña, G"
+  },
+  {
+    "Producto": "Calcetines para bicicleta de montaña, M"
+  },
+  {
+    "Producto": "Calcetines para carreras, G"
+  },
+  {
+    "Producto": "Calcetines para carreras, M"
+  },
+  {
+    "Producto": "Camiseta clásica, G"
+  },
+  {
+    "Producto": "Camiseta clásica, M"
+  },
+  {
+    "Producto": "Camiseta clásica, P"
+  },
+  {
+    "Producto": "Carretera: 150, roja, 44"
+  },
+  {
+    "Producto": "Carretera: 150, roja, 48"
+  },
+  {
+    "Producto": "Carretera: 150, roja, 52"
+  },
+  {
+    "Producto": "Carretera: 150, roja, 56"
+  },
+  {
+    "Producto": "Carretera: 150, roja, 62"
+  },
+  {
+    "Producto": "Carretera: 250, negra, 44"
+  },
+  {
+    "Producto": "Carretera: 250, negra, 48"
+  },
+  {
+    "Producto": "Carretera: 250, negra, 52"
+  },
+  {
+    "Producto": "Carretera: 250, negra, 58"
+  },
+  {
+    "Producto": "Carretera: 250, roja, 44"
+  },
+  {
+    "Producto": "Carretera: 250, roja, 48"
+  },
+  {
+    "Producto": "Carretera: 250, roja, 52"
+  },
+  {
+    "Producto": "Carretera: 250, roja, 58"
+  },
+  {
+    "Producto": "Carretera: 350 para mujer, amarilla, 40"
+  },
+  {
+    "Producto": "Carretera: 350 para mujer, amarilla, 42"
+  },
+  {
+    "Producto": "Carretera: 350 para mujer, amarilla, 44"
+  },
+  {
+    "Producto": "Carretera: 350 para mujer, amarilla, 48"
+  },
+  {
+    "Producto": "Carretera: 450, roja, 44"
+  },
+  {
+    "Producto": "Carretera: 450, roja, 48"
+  },
+  {
+    "Producto": "Carretera: 450, roja, 52"
+  },
+  {
+    "Producto": "Carretera: 450, roja, 58"
+  },
+  {
+    "Producto": "Carretera: 450, roja, 60"
+  },
+  {
+    "Producto": "Carretera: 550 para mujer, amarilla, 38"
+  },
+  {
+    "Producto": "Carretera: 550 para mujer, amarilla, 40"
+  },
+  {
+    "Producto": "Carretera: 550 para mujer, amarilla, 42"
+  },
+  {
+    "Producto": "Carretera: 550 para mujer, amarilla, 44"
+  },
+  {
+    "Producto": "Carretera: 550 para mujer, amarilla, 48"
+  },
+  {
+    "Producto": "Carretera: 650, negra, 44"
+  },
+  {
+    "Producto": "Carretera: 650, negra, 48"
+  },
+  {
+    "Producto": "Carretera: 650, negra, 52"
+  },
+  {
+    "Producto": "Carretera: 650, negra, 58"
+  },
+  {
+    "Producto": "Carretera: 650, negra, 60"
+  },
+  {
+    "Producto": "Carretera: 650, negra, 62"
+  },
+  {
+    "Producto": "Carretera: 650, roja, 44"
+  },
+  {
+    "Producto": "Carretera: 650, roja, 48"
+  },
+  {
+    "Producto": "Carretera: 650, roja, 52"
+  },
+  {
+    "Producto": "Carretera: 650, roja, 58"
+  },
+  {
+    "Producto": "Carretera: 650, roja, 60"
+  },
+  {
+    "Producto": "Carretera: 650, roja, 62"
+  },
+  {
+    "Producto": "Carretera: 750, negra, 44"
+  },
+  {
+    "Producto": "Carretera: 750, negra, 48"
+  },
+  {
+    "Producto": "Carretera: 750, negra, 52"
+  },
+  {
+    "Producto": "Carretera: 750, negra, 58"
+  },
+  {
+    "Producto": "Casco deportivo: 100, azul"
+  },
+  {
+    "Producto": "Casco deportivo: 100, negro"
+  },
+  {
+    "Producto": "Casco deportivo: 100, rojo"
+  },
+  {
+    "Producto": "Cesta de paseo, grande"
+  },
+  {
+    "Producto": "Conjunto de guardabarros: montaña"
+  },
+  {
+    "Producto": "Cuadro de carretera GA: negro, 44"
+  },
+  {
+    "Producto": "Cuadro de carretera GA: negro, 48"
+  },
+  {
+    "Producto": "Cuadro de carretera GA: negro, 52"
+  },
+  {
+    "Producto": "Cuadro de carretera GA: negro, 62"
+  },
+  {
+    "Producto": "Cuadro de carretera GA: rojo, 44"
+  },
+  {
+    "Producto": "Cuadro de carretera GA: rojo, 48"
+  },
+  {
+    "Producto": "Cuadro de carretera GA: rojo, 52"
+  },
+  {
+    "Producto": "Cuadro de carretera GA: rojo, 56"
+  },
+  {
+    "Producto": "Cuadro de carretera GA: rojo, 62"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: negro, 44"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: negro, 48"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: negro, 52"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: negro, 58"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: negro, 60"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: negro, 62"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: rojo, 44"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: rojo, 48"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: rojo, 52"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: rojo, 58"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: rojo, 60"
+  },
+  {
+    "Producto": "Cuadro de carretera GB: rojo, 62"
+  },
+  {
+    "Producto": "Cuadro de carretera GM: rojo, 44"
+  },
+  {
+    "Producto": "Cuadro de carretera GM: rojo, 48"
+  },
+  {
+    "Producto": "Cuadro de carretera GM: rojo, 52"
+  },
+  {
+    "Producto": "Cuadro de carretera GM: rojo, 58"
+  },
+  {
+    "Producto": "Cuadro de carretera GM: rojo, 60"
+  },
+  {
+    "Producto": "Cuadro de carretera para mujer GM: amarillo, 38"
+  },
+  {
+    "Producto": "Cuadro de carretera para mujer GM: amarillo, 40"
+  },
+  {
+    "Producto": "Cuadro de carretera para mujer GM: amarillo, 42"
+  },
+  {
+    "Producto": "Cuadro de carretera para mujer GM: amarillo, 44"
+  },
+  {
+    "Producto": "Cuadro de carretera para mujer GM: amarillo, 48"
+  },
+  {
+    "Producto": "Cuadro de paseo GA: amarillo, 46"
+  },
+  {
+    "Producto": "Cuadro de paseo GA: amarillo, 50"
+  },
+  {
+    "Producto": "Cuadro de paseo GA: amarillo, 54"
+  },
+  {
+    "Producto": "Cuadro de paseo GA: amarillo, 60"
+  },
+  {
+    "Producto": "Cuadro de paseo GA: azul, 46"
+  },
+  {
+    "Producto": "Cuadro de paseo GA: azul, 50"
+  },
+  {
+    "Producto": "Cuadro de paseo GA: azul, 54"
+  },
+  {
+    "Producto": "Cuadro de paseo GA: azul, 60"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: amarillo, 44"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: amarillo, 50"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: amarillo, 54"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: amarillo, 58"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: amarillo, 62"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: azul, 44"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: azul, 50"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: azul, 54"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: azul, 58"
+  },
+  {
+    "Producto": "Cuadro de paseo GB: azul, 62"
+  },
+  {
+    "Producto": "Cubierta de carretera GA"
+  },
+  {
+    "Producto": "Cubierta de carretera GB"
+  },
+  {
+    "Producto": "Cubierta de carretera GM"
+  },
+  {
+    "Producto": "Cubierta de montaña GA"
+  },
+  {
+    "Producto": "Cubierta de montaña GB"
+  },
+  {
+    "Producto": "Cubierta de montaña GM"
+  },
+  {
+    "Producto": "Cubierta de paseo"
+  },
+  {
+    "Producto": "Cubierta para cámara de carretera"
+  },
+  {
+    "Producto": "Cubierta para cámara de montaña"
+  },
+  {
+    "Producto": "Cubierta para cámara de paseo"
+  },
+  {
+    "Producto": "Desviador delantero"
+  },
+  {
+    "Producto": "Desviador trasero"
+  },
+  {
+    "Producto": "Dirección GA"
+  },
+  {
+    "Producto": "Dirección GB"
+  },
+  {
+    "Producto": "Dirección GM"
+  },
+  {
+    "Producto": "Eje de pedalier GA"
+  },
+  {
+    "Producto": "Eje de pedalier GB"
+  },
+  {
+    "Producto": "Eje de pedalier GM"
+  },
+  {
+    "Producto": "Frenos delanteros"
+  },
+  {
+    "Producto": "Frenos traseros"
+  },
+  {
+    "Producto": "Guantes completos, G"
+  },
+  {
+    "Producto": "Guantes completos, M"
+  },
+  {
+    "Producto": "Guantes completos, P"
+  },
+  {
+    "Producto": "Horquilla GA"
+  },
+  {
+    "Producto": "Horquilla GB"
+  },
+  {
+    "Producto": "Horquilla GM"
+  },
+  {
+    "Producto": "Jersey clásico de manga corta, G"
+  },
+  {
+    "Producto": "Jersey clásico de manga corta, M"
+  },
+  {
+    "Producto": "Jersey clásico de manga corta, P"
+  },
+  {
+    "Producto": "Jersey clásico de manga corta, SG"
+  },
+  {
+    "Producto": "Jersey con logotipo de manga larga, G"
+  },
+  {
+    "Producto": "Jersey con logotipo de manga larga, M"
+  },
+  {
+    "Producto": "Jersey con logotipo de manga larga, P"
+  },
+  {
+    "Producto": "Jersey con logotipo de manga larga, SG"
+  },
+  {
+    "Producto": "Lavado de bicicletas: disolvente"
+  },
+  {
+    "Producto": "Luces: doble haz"
+  },
+  {
+    "Producto": "Luces: resistentes al agua"
+  },
+  {
+    "Producto": "Mallas para mujer, G"
+  },
+  {
+    "Producto": "Mallas para mujer, M"
+  },
+  {
+    "Producto": "Mallas para mujer, P"
+  },
+  {
+    "Producto": "Manillar de carretera GA"
+  },
+  {
+    "Producto": "Manillar de carretera GB"
+  },
+  {
+    "Producto": "Manillar de carretera GM"
+  },
+  {
+    "Producto": "Manillar de paseo GA"
+  },
+  {
+    "Producto": "Manillar de paseo GB"
+  },
+  {
+    "Producto": "Montaña: 100, negra, 38"
+  },
+  {
+    "Producto": "Montaña: 100, negra, 42"
+  },
+  {
+    "Producto": "Montaña: 100, negra, 44"
+  },
+  {
+    "Producto": "Montaña: 100, negra, 48"
+  },
+  {
+    "Producto": "Montaña: 100, plateada, 38"
+  },
+  {
+    "Producto": "Montaña: 100, plateada, 42"
+  },
+  {
+    "Producto": "Montaña: 100, plateada, 44"
+  },
+  {
+    "Producto": "Montaña: 100, plateada, 48"
+  },
+  {
+    "Producto": "Montaña: 200, negra, 38"
+  },
+  {
+    "Producto": "Montaña: 200, negra, 42"
+  },
+  {
+    "Producto": "Montaña: 200, negra, 46"
+  },
+  {
+    "Producto": "Montaña: 200, plateada, 38"
+  },
+  {
+    "Producto": "Montaña: 200, plateada, 42"
+  },
+  {
+    "Producto": "Montaña: 200, plateada, 46"
+  },
+  {
+    "Producto": "Montaña: 300, negra, 38"
+  },
+  {
+    "Producto": "Montaña: 300, negra, 40"
+  },
+  {
+    "Producto": "Montaña: 300, negra, 44"
+  },
+  {
+    "Producto": "Montaña: 300, negra, 48"
+  },
+  {
+    "Producto": "Montaña: 400 para mujer, plateada, 38"
+  },
+  {
+    "Producto": "Montaña: 400 para mujer, plateada, 40"
+  },
+  {
+    "Producto": "Montaña: 400 para mujer, plateada, 42"
+  },
+  {
+    "Producto": "Montaña: 400 para mujer, plateada, 46"
+  },
+  {
+    "Producto": "Montaña: 500, negra, 40"
+  },
+  {
+    "Producto": "Montaña: 500, negra, 42"
+  },
+  {
+    "Producto": "Montaña: 500, negra, 44"
+  },
+  {
+    "Producto": "Montaña: 500, negra, 48"
+  },
+  {
+    "Producto": "Montaña: 500, negra, 52"
+  },
+  {
+    "Producto": "Montaña: 500, plateada, 40"
+  },
+  {
+    "Producto": "Montaña: 500, plateada, 42"
+  },
+  {
+    "Producto": "Montaña: 500, plateada, 44"
+  },
+  {
+    "Producto": "Montaña: 500, plateada, 48"
+  },
+  {
+    "Producto": "Montaña: 500, plateada, 52"
+  },
+  {
+    "Producto": "Pantalones cortos de deporte para hombre, G"
+  },
+  {
+    "Producto": "Pantalones cortos de deporte para hombre, M"
+  },
+  {
+    "Producto": "Pantalones cortos de deporte para hombre, P"
+  },
+  {
+    "Producto": "Pantalones cortos de deporte para hombre, SG"
+  },
+  {
+    "Producto": "Paseo: 1000, amarilla, 46"
+  },
+  {
+    "Producto": "Paseo: 1000, amarilla, 50"
+  },
+  {
+    "Producto": "Paseo: 1000, amarilla, 54"
+  },
+  {
+    "Producto": "Paseo: 1000, amarilla, 60"
+  },
+  {
+    "Producto": "Paseo: 1000, azul, 46"
+  },
+  {
+    "Producto": "Paseo: 1000, azul, 50"
+  },
+  {
+    "Producto": "Paseo: 1000, azul, 54"
+  },
+  {
+    "Producto": "Paseo: 1000, azul, 60"
+  },
+  {
+    "Producto": "Paseo: 2000, azul, 46"
+  },
+  {
+    "Producto": "Paseo: 2000, azul, 50"
+  },
+  {
+    "Producto": "Paseo: 2000, azul, 54"
+  },
+  {
+    "Producto": "Paseo: 2000, azul, 60"
+  },
+  {
+    "Producto": "Paseo: 3000, amarilla, 44"
+  },
+  {
+    "Producto": "Paseo: 3000, amarilla, 50"
+  },
+  {
+    "Producto": "Paseo: 3000, amarilla, 54"
+  },
+  {
+    "Producto": "Paseo: 3000, amarilla, 58"
+  },
+  {
+    "Producto": "Paseo: 3000, amarilla, 62"
+  },
+  {
+    "Producto": "Paseo: 3000, azul, 44"
+  },
+  {
+    "Producto": "Paseo: 3000, azul, 50"
+  },
+  {
+    "Producto": "Paseo: 3000, azul, 54"
+  },
+  {
+    "Producto": "Paseo: 3000, azul, 58"
+  },
+  {
+    "Producto": "Paseo: 3000, azul, 62"
+  },
+  {
+    "Producto": "Pedal de carretera GA"
+  },
+  {
+    "Producto": "Pedal de carretera GB"
+  },
+  {
+    "Producto": "Pedal de carretera GM"
+  },
+  {
+    "Producto": "Pedal de montaña GA"
+  },
+  {
+    "Producto": "Pedal de montaña GB"
+  },
+  {
+    "Producto": "Pedal de montaña GM"
+  },
+  {
+    "Producto": "Pedal de paseo"
+  },
+  {
+    "Producto": "Portabotellas de carretera"
+  },
+  {
+    "Producto": "Portabotellas de montaña"
+  },
+  {
+    "Producto": "Rueda de carretera delantera GA"
+  },
+  {
+    "Producto": "Rueda de carretera delantera GB"
+  },
+  {
+    "Producto": "Rueda de carretera delantera GM"
+  },
+  {
+    "Producto": "Rueda de carretera trasera GA"
+  },
+  {
+    "Producto": "Rueda de carretera trasera GB"
+  },
+  {
+    "Producto": "Rueda de carretera trasera GM"
+  },
+  {
+    "Producto": "Rueda de paseo delantera"
+  },
+  {
+    "Producto": "Rueda de paseo trasera"
+  },
+  {
+    "Producto": "Sillín/asiento de carretera GA"
+  },
+  {
+    "Producto": "Sillín/asiento de carretera GB"
+  },
+  {
+    "Producto": "Sillín/asiento de carretera GM"
+  },
+  {
+    "Producto": "Sillín/asiento de paseo GA"
+  },
+  {
+    "Producto": "Sillín/asiento de paseo GB"
+  },
+  {
+    "Producto": "Sillín/asiento de paseo GM"
+  },
+  {
+    "Producto": "Soporte multiusos para bicicletas"
+  }
+]
